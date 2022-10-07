@@ -9,7 +9,7 @@ Thanks for checking out this Application.
 ### Links
 
 - Solution URL: [Github](https://github.com/AhmadSaleh99)
-- Live Site URL: [Live Site](https://ahmadsaleh99.github.io/Coffee-Shope/)
+- Live Site URL: [Live Site](https://ahmadsaleh99.github.io/template-two/)
 
 ## My process
 
